@@ -1,2 +1,5 @@
 # hello-world
-H E L L O. Let's collaborate. 
+#<<<<<<< readme-edits
+#H E L L O. Let's collaborate. 
+#=======
+#>>>>>>> main
